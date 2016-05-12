@@ -1,0 +1,32 @@
+{
+	"name": "dec-wrapper",
+	"authors": [
+		"Maestral Solutions <att@maestralsolutions.com>"
+	],
+	"description": "Dec Wrapper Angular Module.",
+	"ignore": [
+        ".bowerrc",
+        ".gitignore",
+        ".jshintignore",
+        ".jshintrc",
+        "bower.json",
+        "gruntfile.js",
+        "package.json",
+        "README.md"
+    ],
+	"keywords": [
+		"at&t",
+		"DEC",
+		"connected-car",
+		"IoT"
+	],
+	"license": "MIT",
+	"main": [
+		"dec-wrapper.js"
+	],
+    "repository": {
+        "type": "git",
+        "url": "git://git@git.assembla.com:at-t-connected-car.dec.git"
+    },
+    "version": "0.0.2"
+}
